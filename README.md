@@ -4,7 +4,7 @@ That's the situation a miscalculation puts you in — and with ready-mix concret
 
 Most people using a concrete calculator for the first time make a mistake that isn't about the math. It's about the unit conversion. One number entered wrong — thickness in inches instead of feet, or outside form dimensions instead of inside — and the whole estimate drifts.
 
-This guide walks through the calculation the right way, with worked examples for slabs, footings, round pours, and tube forms. The free concrete calculator at <a href="https://calculationhub.org">CalculationHub.org</a> handles the arithmetic, but understanding the logic behind it is what prevents an expensive phone call to the ready-mix plant.
+This guide walks through the calculation the right way, with worked examples for slabs, footings, round pours, and tube forms. The free concrete calculator at <a href="https://calculationhub.org">**CalculationHub.org**</a> handles the arithmetic, but understanding the logic behind it is what prevents an expensive phone call to the ready-mix plant.
 The Formula, Explained Simply
 
 Every concrete estimate — slabs, footings, columns, steps — starts with the same three-number multiplication:
